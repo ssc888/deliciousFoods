@@ -1,5 +1,9 @@
 # 舒乐美食在线分享网站
 
+B站系统讲解链接：https://www.bilibili.com/video/BV1Pp4y1k7zv
+&emsp;
+&emsp;
+
 ## 前台首页
 ![](https://img-blog.csdnimg.cn/20201112121422232.png)
 <br>
