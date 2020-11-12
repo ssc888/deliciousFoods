@@ -7,8 +7,25 @@
 
 ![](https://img-blog.csdnimg.cn/20201112121421539.png)
 
+## 前台公告页
+![](https://img-blog.csdnimg.cn/20201112121420831.png)
 
+## 前台菜谱页
+![](https://img-blog.csdnimg.cn/20201112121420891.png)
 
+## 前台留言页
+![](https://img-blog.csdnimg.cn/20201112121420357.png)
+
+## 后台首页
+![](https://img-blog.csdnimg.cn/20201112121420447.png)
+
+## 后台信息管理页
+![](https://img-blog.csdnimg.cn/20201112121420446.png)
+
+## 后台个人信息页
+![](https://img-blog.csdnimg.cn/20201112121420408.png)
+
+<hr>
 
 # 我是做什么的？
 JavaWeb毕业设计、课程设计、代码代做，前后端都做
