@@ -4,6 +4,9 @@ B站系统讲解链接：https://www.bilibili.com/video/BV1Pp4y1k7zv
 &emsp;
 &emsp;
 
+## 网站运行地址：
+http://localhost:8888/front/index.html
+
 ## 前台首页
 ![](https://img-blog.csdnimg.cn/20201112121422232.png)
 <br>
